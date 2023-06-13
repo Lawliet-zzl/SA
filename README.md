@@ -1,4 +1,4 @@
-# Code for "Revealing Distributional Vulnerability of Explicit Discriminators by Implicit Generators"
+# Code for "Supervision Adaptation Balances In-Distribution Generalization and Out-of-Distribution Detection"
 
 ## requirement
 * Python 3.8
